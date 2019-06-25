@@ -15,5 +15,20 @@ namespace ModalModalessForm
         {
             InitializeComponent();
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ToolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ToolStripStatusLabel2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
